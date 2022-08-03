@@ -8,7 +8,7 @@ const Todo = () => {
     const getdata = async ()=>{
 
           try{
-               let data = await fetch(`https://jsonplaceholder.typicode.com/todos`)
+               let data = await fetch(`https://jsonplaceholder.typicode.com/posts?_page=1&_limit=10`)
                data = await data.json();
                setData(data);
               console.log(data)
