@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "status": false
+    },
+    {
+      "title": "raju",
+      "status": false,
+      "id": 2
+    },
+    {
+      "title": "shayam",
+      "status": false,
+      "id": 3
+    },
+    {
+      "title": "baburao ganpat rao aapte",
+      "status": false,
+      "id": 4
+    },
+    {
+      "title": "bhoj",
+      "status": false,
+      "id": 5
+    },
+    {
+      "title": "kingu",
+      "status": false,
+      "id": 6
+    }
+  ]
+}

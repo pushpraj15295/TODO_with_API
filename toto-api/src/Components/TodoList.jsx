@@ -8,7 +8,7 @@ const TodoList = ({data}) => {
              <TodoItem key={item.id}
                        id={item.id}
                        title={item.title}
-                       completed={item.completed}
+                       status={item.status}
                        />
         )}
     </div>
